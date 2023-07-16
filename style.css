@@ -183,9 +183,3 @@ canvas {
   font-size: 50px;
   text-align: end;
 }
-#section2 {
-  width: 100vw;
-  height: 100vh;
-  background-color: #000;
-  position: relative;
-}
